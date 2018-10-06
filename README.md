@@ -9,6 +9,6 @@ You can programitly get them ot by using HxD for ex.
 
 Put the Bytes into the source , and you done
 
-you'll get jsut one file at the end .
+you'll get jsut one file, you'll not need any dlls with it in the same folder
 
 
